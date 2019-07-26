@@ -27,3 +27,9 @@ In this playground, we will use arrays of non-null values, to focus on sorts and
         __ do the sort __
 [.>]                 print sorted list of chars
 ```
+
+
+# Playground contents
+We will implement 2 different sorting codes:
+* Bubble sort, said as one of the easiest to understand
+* Quicksort, one the of most powerful ones
